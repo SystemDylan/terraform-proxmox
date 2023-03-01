@@ -13,3 +13,7 @@ variable "PM_PASS" {
 variable "LXC_PASS" {
   type = string
 }
+
+variable "sharename" {
+  type = string
+}
