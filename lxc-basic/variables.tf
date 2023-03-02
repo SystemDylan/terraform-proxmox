@@ -17,3 +17,4 @@ variable "LXC_PASS" {
 variable "sharename" {
   type = string
 }
+
