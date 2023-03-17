@@ -18,3 +18,15 @@ variable "LXC_PASS" {
 variable "sharename" {
   type = string
 }
+variable "container_ip" {
+  type = string
+}
+variable "gw_ip" {
+  type = string
+}
+variable "MYSQL_PASS" {
+  type = string
+}
+variable "target_node" {
+  type = string
+}
